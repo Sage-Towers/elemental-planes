@@ -44,15 +44,9 @@ Our team will review each submission to ensure corrections align with project go
 
 ## Community Engagement
 
-We encourage contributors to share their progress, seek advice, and offer support through our community channels. Your insights and feedback are invaluable as we work together to refine this collection.
+We encourage contributors to share their progress, seek advice, and offer support through our [Discord](https://sagetowers.com). Your insights and feedback are invaluable as we work together to refine this collection.
 
 ## Acknowledgments
 
 Thank you to all contributors for your dedication and effort to enhance the Elemental Planes Image Collection. Your contributions are crucial for the continuous improvement and success of the Sage Towers project.
-
-## License
-
-This project is licensed under [specify license], ensuring open collaboration while respecting intellectual property rights.
-
-Join us in this meticulous task of enhancing the Elemental Planes Image Collection. Together, we can achieve a refined, high-quality image set that perfectly embodies the essence of Sage Towers.
 
