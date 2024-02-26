@@ -44,7 +44,7 @@ Our team will review each submission to ensure corrections align with project go
 
 ## Community Engagement
 
-We encourage contributors to share their progress, seek advice, and offer support through our [Discord](https://sagetowers.com). Your insights and feedback are invaluable as we work together to refine this collection.
+We encourage contributors to share their progress, seek advice, and offer support through our [Discord](https://discord.gg/sagetowers). Your insights and feedback are invaluable as we work together to refine this collection.
 
 ## Acknowledgments
 
