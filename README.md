@@ -13,7 +13,7 @@ These anomalies can significantly impact the quality and coherence of our collec
 
 ## How You Can Help
 
-Contributing to this project not only helps enhance the Elemental Planes Image Collection but also earns you Sage Points, which are convertible into rewards within the Sage Towers ecosystem. Here's how you can get involved:
+Contributing to this project not only helps enhance the Elemental Planes Image Collection but also earns you [Sage Points](https://docs.sagetowers.com/sage-towers/governance-and-economy/currencies/sage-points), which are convertible into our [ERC20 token Sage Stone](https://docs.sagetowers.com/sage-towers/governance-and-economy/currencies/sage-stone-sgstn). Here's how you can get involved:
 
 ### Step 1: Reviewing Images
 
