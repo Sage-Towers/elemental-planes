@@ -7,6 +7,7 @@ Welcome to the Sage Towers Project, focused on the Elemental Planes Image Collec
 The primary focus of this project is the identification and correction of images that contain:
 - **Messed Up Text**: Text overlays that are incorrect, irrelevant, or nonsensical.
 - **Messed Up Objects**: Objects that are out of place, distorted, or do not belong in the image.
+- **Messed Up Filenames**: Some files have NaN in the file name, replace it with the right element.
 
 These anomalies can significantly impact the quality and coherence of our collection. As we plan to use this refined data for further AI training and development, it's imperative that contributions focus on these aspects.
 
